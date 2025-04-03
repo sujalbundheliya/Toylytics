@@ -1,0 +1,6 @@
+playwright
+pandas
+matplotlib
+seaborn
+jupyter
+openpyxl
